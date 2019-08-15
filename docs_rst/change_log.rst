@@ -1,6 +1,30 @@
 Change log
 ==========
 
+v2019.8.14
+----------
+* Update DOSCAR from lobster (@JaGEO)
+* PerturbStructureTransformation (@rees-c)
+* Misc bug fixes.
+
+v2019.7.30
+----------
+* Bug fixes (@shyuep, @mfherbst)
+* More type hint annotations (@shyuep)
+* Improvements to BabelMolAdaptor (@smheidrich)
+* Convenience Transformations for AdsorbateSiteFinder (@mkhorton)
+
+v2019.7.21
+----------
+* Add CubicSupercellTransformation and PerturbedSupercellsTransformation (@rees-c, @utf)
+* Add interface for ShengBTE (@rees-c, @utf)
+* Add interface for Vampire (@ncfrey)
+* Improved Lobster interface (@JaGeo)
+* Bug fixes (@sthartman, @dwinston, @utf)
+* New functionality for calculation of Heisenberg exchange parameters (@ncfrey)
+* Improvements to Miller indices handling and Lattice (@richardtran415)
+
+
 v2019.7.2
 ---------
 * Improvements to grain boundary transformations and Rester (@Tinaatucsd)
