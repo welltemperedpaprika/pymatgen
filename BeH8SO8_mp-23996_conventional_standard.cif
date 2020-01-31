@@ -1,0 +1,47 @@
+# generated using pymatgen
+data_BeH8SO8
+_symmetry_space_group_name_H-M   I-4c2
+_cell_length_a   8.01060202
+_cell_length_b   8.01060202
+_cell_length_c   11.02602810
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   120
+_chemical_formula_structural   BeH8SO8
+_chemical_formula_sum   'Be4 H32 S4 O32'
+_cell_volume   707.53740820
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-y, x, -z'
+  3  '-x, -y, z'
+  4  'y, -x, -z'
+  5  '-x, y, z+1/2'
+  6  'y, x, -z+1/2'
+  7  'x, -y, z+1/2'
+  8  '-y, -x, -z+1/2'
+  9  'x+1/2, y+1/2, z+1/2'
+  10  '-y+1/2, x+1/2, -z+1/2'
+  11  '-x+1/2, -y+1/2, z+1/2'
+  12  'y+1/2, -x+1/2, -z+1/2'
+  13  '-x+1/2, y+1/2, z'
+  14  'y+1/2, x+1/2, -z'
+  15  'x+1/2, -y+1/2, z'
+  16  '-y+1/2, -x+1/2, -z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Be  Be0  4  0.000000  0.500000  0.250000  1
+  H  H1  16  0.039588  0.269302  0.631894  1
+  H  H2  16  0.125235  0.283484  0.364128  1
+  S  S3  4  0.000000  0.000000  0.000000  1
+  O  O4  16  0.084364  0.871437  0.576542  1
+  O  O5  16  0.103490  0.362137  0.672369  1
