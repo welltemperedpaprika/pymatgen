@@ -56,7 +56,7 @@ class XRDCalculatorTest(PymatgenTest):
         self.assertAlmostEqual(xrd.y[0], 100)
         self.assertAlmostEqual(len(xrd.hkls[0][0]["hkl"]), 4)
 
-        # Add test case with different lengths of coefficients.
+        # Add test case with different lengths of coefficientc.
         # Also test d_hkl.
         coords = [[0.25, 0.25, 0.173], [0.75, 0.75, 0.827], [0.75, 0.25, 0],
                   [0.25, 0.75, 0], [0.25, 0.25, 0.676], [0.75, 0.75, 0.324]]
